@@ -1,0 +1,5 @@
+{
+  "name": "AI 숫자 인식기 (AI Digit Recognizer)",
+  "description": "캔버스에 숫자를 그리면 AI가 인식하는 웹 애플리케이션입니다. TensorFlow.js와 MNIST 모델을 사용합니다. (A web application where an AI recognizes digits drawn on a canvas. Uses TensorFlow.js and an MNIST model.)",
+  "requestFramePermissions": []
+}
